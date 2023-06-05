@@ -88,6 +88,7 @@
 * Development of Central Supervisory System for Multiple Autonomous Mining Dump Truck Operation
     * 04/2022 ~ 06/2023
     * Senior Software Engineer
+    * Improved decision process of maximum speed for fleet operation
 * Leader of multiple small development projects
     * 09/2021 ~ 03/2022
     * Managing progress of 8 developers
@@ -96,21 +97,41 @@
 * Development of Embedded Drive Recording System for Autonomous Mining Dump Truck
     * 01/2021 ~ 12/2021
     * Senior Software Engineer
+    * Designed embedded software to record behavior data of truck and sensing data of Radar, LiDAR, Camera on Linux
+    * Implemented code and validated system
 * Research and Development of Emergency Braking System for Autonomous Mining Dump Truck
     * 01/2019 ~ 03/2022
     * Senior Software Engineer
+    * Generated braking dynamics model to predict truck's braking distance
+    * Built new algorithm of collision prediction by using dynamics model
+    * Simulated the algorithm's performance and evaluated by using real truck
 * Development of Object Tracking + Obstacle Detection System for Autonomous Mining Dump Truck
     * 04/2016 ~ 12/2018
     * Software Engineer
+    * Built object tracking algorithm by using Extended Kalman Filter
+    * Built multiple object's data association algorithm by Sub-optimal Nearest Neighbor method
+    * Built obstacle detection algorithm by Logistic regression
+    * Detection accuracy was improved 70% higher than previous system
 * Development of Mapping and Self-Localization System by using LiDAR for Autonomous Mining Dump Truck
     * 09/2014 ~ 04/2016
     * Software Engineer
+    * Visited at our customer's mine site to collect sensing data of LiDAR installed on truck
+    * Developed embedded data recording system by using ROS
+    * Simulated mapping and localization algorithm's performance
+    * Built map data management and sharing system among each trucks
 * Research of Self-Localization by using UWB Radio for Autonomous Mining Dump Truck
     * 04/2013 ~ 09/2014
     * Researcher
+    * Evaluated measurement accuracy of distance by using UWB Radio
+    * Built Self-Localization algorithm by using multiple distance information from UWB Radio
+    * Simulated and evaluated accuracy of built localization algorithm
 * Research of Human Detection by using Computer Vision for Construction Equipment
     * 04/2012 ~ 03/2013
     * Researcher
+    * Investigated basic human detection algorithm by Computer Vision
+    * Implemented detection algorithm by HOG-AdaBoost
+    * Adjusted parameters and evaluated detection accuracy
 * Analysis of Stress Deconstruction for Mining Dump Truck
     * 10/2011 ~ 03/2012
     * Mechanical Engineer
+    * Simulated and analyzed mechanism of body deconstruction by stress while driving on rough road
