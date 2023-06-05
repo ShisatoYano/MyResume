@@ -50,3 +50,22 @@
 * Mapping
 * Path Planning/Tracking
 * Vehicle Control
+
+## Education
+### Chuo University (Japan)
+#### Master's degree
+* 01/04/2009 ~ 31/03/2011
+* Precision Engineering
+
+#### Bachelor's degree
+* 01/04/2005 ~ 31/03/2009
+* Mechanical Engineering
+
+#### Research
+* Development of Tele-operation System for Crane without overshooting in Positioning
+    * [Published in IROS 2010](https://ieeexplore.ieee.org/abstract/document/5652897)
+    * Developed Graphical User Interface with camera for tele-operation
+    * Developed sensing system with camera to measure vibration angle of suspended object
+    * Developed high accurate positioning system in controlling vibration and overshoot automatically
+    * Developed obstacle avoidance system by measuring obstacle height with camera and controlling height of suspended object automatically for operator assistance
+
